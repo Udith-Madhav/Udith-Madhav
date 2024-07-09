@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70D0D&background=000000&center=true&vCenter=true&random=false&width=435&lines=Udith+Madhav;Flutter+Full+Stack+Developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70D0D&center=true&vCenter=true&random=false&width=435&lines=Udith+Madhav;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Udith Madhav</h1>
 <h3 align="center">Flutter Full Stack Developer</h3>
 
