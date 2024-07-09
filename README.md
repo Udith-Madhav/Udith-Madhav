@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70D0D&vCenter=true&random=false&width=435&lines=Udith+Madhav;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
 <img align="center" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 <h1 align="left">Hi 👋, I'm Udith Madhav</h1>
-<h3 align="left">Flutter Full Stack Developer<br><br></h3>
+<h3 align="left">Flutter Full Stack Developer</h3><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udith-madhav&label=Profile%20views&color=0e75b6&style=flat" alt="udith-madhav" /> </p>
 
